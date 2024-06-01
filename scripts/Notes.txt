@@ -1,0 +1,2 @@
+Total extracted samples: 10 055
+vetted samples used in model: 1986
